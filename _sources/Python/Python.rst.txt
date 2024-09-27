@@ -1,6 +1,4 @@
 Python
 ======
 
-Programki Pythonowe
-
-juhu
+Programki Pythonowe juhu
